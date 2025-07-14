@@ -23,14 +23,6 @@ Python, C ve Java dillerinde projeler geliştiriyor; yazılım dünyasında kend
 
 ---
 
-## 🎯 Hedeflerim
-
-- 100 Days of Code: Python Bootcamp sürecini tamamlamak  
-- C ve Java bilgimi projelerle pekiştirmek  
-- İleride .NET ve Docker gibi teknolojilerde uzmanlaşmak
-
----
-
 ## 📫 Bana Ulaşın
 
 - **E-posta:** sumeyyekonukk@gmail.com  
