@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 Merhaba! Ben Sümeyye Konuk
 
-<!--
-**sumeyyekonuk/sumeyyekonuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+GitHub profilime hoş geldiniz!  
+Abant İzzet Baysal Üniversitesi'nde Bilgisayar Mühendisliği 2. sınıf öğrencisiyim.  
+Python, C ve Java dillerinde projeler geliştiriyor; yazılım dünyasında kendimi sürekli geliştirmeye çalışıyorum.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 İlgi Alanlarım
+
+- Python ile temel uygulamalar ve otomasyon
+- C diliyle algoritma ve temel sistem programlama
+- Java ile nesne yönelimli programlama
+- MySQL veritabanı ile temel sorgular ve veri işlemleri
+
+---
+
+## 🛠️ Kullandığım Araçlar
+
+- PyCharm, Visual Studio, Eclipse  
+- Git ve GitHub ile sürüm kontrolü  
+- MySQL Workbench
+
+---
+
+## 🎯 Hedeflerim
+
+- 100 Days of Code: Python Bootcamp sürecini tamamlamak  
+- C ve Java bilgimi projelerle pekiştirmek  
+- İleride .NET ve Docker gibi teknolojilerde uzmanlaşmak
+
+---
+
+## 📫 Bana Ulaşın
+
+- **E-posta:** sumeyyekonukk@gmail.com  
+- **LinkedIn:** [linkedin.com/in/sümeyye-konuk](https://www.linkedin.com/in/s%C3%BCmeyye-konuk-558a01309)
+
+---
+ 
