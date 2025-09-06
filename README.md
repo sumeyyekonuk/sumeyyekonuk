@@ -1,25 +1,34 @@
 # 👋 Merhaba! Ben Sümeyye Konuk
 
 GitHub profilime hoş geldiniz!  
-Abant İzzet Baysal Üniversitesi'nde Bilgisayar Mühendisliği 2. sınıf öğrencisiyim.  
+Bilgisayar Mühendisliği 3. sınıf öğrencisiyim.  
 Python, C ve Java dillerinde projeler geliştiriyor; yazılım dünyasında kendimi sürekli geliştirmeye çalışıyorum.
 
 ---
 
 ## 💻 İlgi Alanlarım
 
-- Python ile temel uygulamalar ve otomasyon
-- C diliyle algoritma ve temel sistem programlama
-- Java ile nesne yönelimli programlama
-- MySQL veritabanı ile temel sorgular ve veri işlemleri
+Python ile temel uygulamalar ve otomasyon
+
+C diliyle algoritma ve temel sistem programlama
+
+Java ile nesne yönelimli programlama
+
+Web geliştirme: React.js, Node.js, Express
+
+MySQL veritabanı ile temel sorgular ve veri işlemleri
 
 ---
 
 ## 🛠️ Kullandığım Araçlar
 
-- PyCharm, Visual Studio, Eclipse  
-- Git ve GitHub ile sürüm kontrolü  
-- MySQL Workbench
+PyCharm, Visual Studio, Eclipse
+
+Git ve GitHub ile sürüm kontrolü
+
+MySQL Workbench
+
+Postman ile API testleri
 
 ---
 
