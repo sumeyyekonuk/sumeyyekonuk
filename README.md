@@ -28,6 +28,8 @@ Python, C ve Java dillerinde projeler geliştiriyor; yazılım dünyasında kend
 ## 📊 GitHub İstatistikleri
 
 ![Sümeyye'nin GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=sumeyyekonuk&show_icons=true&hide_title=false&count_private=false)
+![En Çok Kullanılan Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=sumeyyekonuk&layout=compact)
+
 
 ---
 
