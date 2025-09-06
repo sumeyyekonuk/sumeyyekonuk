@@ -31,6 +31,8 @@ MySQL Workbench
 Postman ile API testleri
 
 ---
+![Sümeyye'nin GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=sumeyyekonuk&show_icons=true&hide_title=false&count_private=true)
+
 
 ## 📫 Bana Ulaşın
 
